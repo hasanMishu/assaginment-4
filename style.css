@@ -1,0 +1,29 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1140px;
+    background: green;
+    height: 500px;
+    margin: 50px;
+
+
+}
+.box-1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+
+.content-box{
+    display:flex;
+
+
+}
